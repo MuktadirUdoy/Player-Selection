@@ -1,0 +1,9 @@
+.player-container{
+    display:flex;
+}
+.player-info{
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right:  0.5px solid rgb(79, 82, 85);
+}
